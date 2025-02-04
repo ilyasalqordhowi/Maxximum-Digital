@@ -11,11 +11,16 @@
    ```sh
    code .
    ```
-3. Install dependencies:
+3. go to file frontend:
+    ```sh
+   cd frontend
+   ```
+
+4. Install dependencies:
     ```sh
    npm install
    ```
-
+    
 5. Run the program:
 
 ```sh
