@@ -12,9 +12,11 @@
    code .
    ```
 3. Install dependencies:
+    ```sh
    npm install
+   ```
 
-4. Run the program:
+5. Run the program:
 
 ```sh
   npm run dev
